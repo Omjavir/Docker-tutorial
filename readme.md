@@ -1,5 +1,10 @@
 `https://codedamn.com/learn/docker`
 
+``` cpp
+# Docker description slides - harkirat
+https://drive.google.com/file/d/1OvJyxoU3dHLXV7h-oU2IgpDB7S4RhLbp/view
+```
+
 # pulling an image
 docker pull node
 docker pull ubuntu
