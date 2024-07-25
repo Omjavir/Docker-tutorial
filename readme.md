@@ -1,3 +1,10 @@
+docker run -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 postgres
+docker ps
+docker exec -it ${Container_id} /bin/bash
+psql -U postgres
+\dt
+
+
 ``` cpp
 https://projects.100xdevs.com/tracks/docker-easy/docker-1
 ```
